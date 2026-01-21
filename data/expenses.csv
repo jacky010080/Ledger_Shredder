@@ -1,0 +1,21 @@
+id,amount,category,date,note
+1,310.0,Rent,2025-11-01,November rent
+2,12.5,Food,2025-11-02,breakfast
+3,45.0,Shopping,2025-11-05,hoodie sale
+4,20.0,Transport,2025-11-07,subway
+5,90.0,Food,2025-11-14,lobster
+6,30.0,Entertainment,2025-11-18,movie ticket
+7,300.0,Rent,2025-12-01,December rent
+8,60.0,Entertainment,2025-12-01,board game
+9,10.5,Food,2025-12-06,lunch
+10,20.0,Transport,2025-12-07,bus
+11,30.0,Entertainment,2025-12-08,movie ticket
+12,500.0,Shopping,2025-12-10,headphones
+13,15.0,Food,2025-12-10,beef bowl
+14,45.0,Food,2025-12-11,dinner buffet
+15,55.0,Food,2025-12-15,sushi
+16,80.0,Utilities,2025-12-15,electricity bill
+17,25.0,Transport,2025-12-16,uber
+18,35.0,Shopping,2025-12-18,gifts
+19,120.0,Utilities,2025-12-20,heating
+20,18.0,Entertainment,2025-12-22,arcade
